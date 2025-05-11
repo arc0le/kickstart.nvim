@@ -239,3 +239,10 @@ sudo pacman -S --noconfirm --needed gcc make git ripgrep fd unzip neovim
 ```
 </details>
 
+#### macOS Install
+<details><summary>Brew Install Steps</summary>
+
+```
+brew install neovim
+```
+</details>
